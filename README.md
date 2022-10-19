@@ -4,7 +4,10 @@
 **mbaer24/mbaer24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+Previous Coding Expeirence: I have very little to no coding experience prior to this class 
+Reason(s) for taking this class: The reason I am talking this class because I am intrested in the world of tech, and I feel uninformed about the world I am living in. I also think having the ability to code is an important skill 
+Other Interests: I am very involved in tennis, and I spend a lot of time working to get better out of school. 
+Goals I have for this class and/or projects you'd like to complete: I wold feel accomplished in this class I had a better undertsanding on how to code things on my own. I also think creating a functioning game is a goal of mine. 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
