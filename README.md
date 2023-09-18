@@ -2,11 +2,9 @@
 
 
 
-Here are some ideas to get you started:
-Previous Coding Expeirence: Computer science honors class 
-Reason(s) this class is like no other in the entire school and I would like to widen my horizons 
-Other Interests: I am very involved in tennis and spend a lot of time working to get better out of school. 
-Goals I have for this class and/or projects I'd like to complete: I would feel accomplished in this class if I had a better understanding on how to code things on my own.
+I have coded in a Computer science honors class 
+The reasons I have selected this class is because it is like no other in the entire school and I would like to widen my horizons. Outside of this class I am very involved in tennis and spend a lot of time working to get better out of school. 
+Some goals I have for this class and/or projects I'd like to complete: I would feel accomplished in this class if I had a better understanding of how to code things on my own.
  🔭 I’m currently working on thinking of something to code 
  🌱 I’m currently learning computer science 
 -👯 I’m looking to collaborate on 
